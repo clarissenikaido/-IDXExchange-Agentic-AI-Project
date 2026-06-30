@@ -1,1 +1,1 @@
-# -IDX-Exchange-Agnetic-AI-Project
+# -IDX-Exchange-Agentic-AI-Project
